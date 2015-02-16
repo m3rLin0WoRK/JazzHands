@@ -8,6 +8,9 @@
 
 @class IFTTTTransform3D;
 
+@import UIKit;
+@import Foundation;
+
 @interface IFTTTAnimationFrame : NSObject
 
 @property (nonatomic, assign) CGRect frame;
